@@ -42,12 +42,12 @@ A bash script that checks if Docker and Docker Compose are installed on the syst
 
 To Run:
 
-    chmod +x install_docker.sh
+    chmod +x installrequirements.sh
 
 This makes the script as executable
 
 Then execute the script with sudo privileges
 
-    sudo ./install_docker.sh
+    sudo ./installrequirements.sh
 
 
